@@ -1,0 +1,6 @@
+C:\Users\pc4cu-3\Desktop\USB2024BDIN\Leone\proyecto\Leone\LeoneDS\bin\Debug\LeoneDS.dacpac
+C:\Users\pc4cu-3\Desktop\USB2024BDIN\Leone\proyecto\Leone\LeoneDS\bin\Debug\LeoneDS.dll
+C:\Users\pc4cu-3\Desktop\USB2024BDIN\Leone\proyecto\Leone\LeoneDS\bin\Debug\LeoneDS.pdb
+C:\Users\pc4cu-3\Desktop\USB2024BDIN\Leone\proyecto\Leone\LeoneDS\obj\Debug\LeoneDS.sqlproj.AssemblyReference.cache
+C:\Users\pc4cu-3\Desktop\USB2024BDIN\Leone\proyecto\Leone\LeoneDS\obj\Debug\LeoneDS.dll
+C:\Users\pc4cu-3\Desktop\USB2024BDIN\Leone\proyecto\Leone\LeoneDS\obj\Debug\LeoneDS.pdb
